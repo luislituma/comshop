@@ -2,10 +2,8 @@
 
 Sistema de Gestión de Comercio Electrónico estructurado bajo el paradigma de programación funcional, desarrollado de manera nativa en el lenguaje Go.
 
-## 👥 Autores
-- Integrante 1
-- Integrante 2
-- Integrante 3
+##  Autore:
+- Luis Lituma
 
 ## 🚀 Características del Sistema
 - ✔ **Gestión de Productos**: Catálogo modular e inmutable.
